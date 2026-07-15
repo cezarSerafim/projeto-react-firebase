@@ -1,9 +1,9 @@
-Projeto Prático: Desenvolvimento Web com React.js e Firebase
+##Projeto Prático: Desenvolvimento Web com React.js e Firebase
 
 Este repositório contém o código desenvolvido para a disciplina de Tecnologias para Desenvolvimento Web, como parte do curso de Análise e Desenvolvimento de Sistemas. O objetivo da atividade foi desenvolver aplicações web modernas utilizando React.js, com integração a serviços de autenticação e banco de dados em nuvem, além de deploy em ambiente de produção acessível publicamente.
 
 
-🛠️ Ambiente e Tecnologias
+##🛠️ Ambiente e Tecnologias
 
 A infraestrutura do projeto foi montada com as seguintes ferramentas:
 
@@ -19,11 +19,11 @@ Git e GitHub: Ferramenta de versionamento e plataforma de hospedagem do código 
 
 
 
-🚀 Funcionalidades e Fluxo da Aplicação
+##🚀 Funcionalidades e Fluxo da Aplicação
 
 O projeto é composto por duas aplicações distintas:
 
-Parte 1 — Login App
+##Parte 1 — Login App
 
 Aplicação simples de autenticação desenvolvida com React.js:
 
@@ -33,7 +33,7 @@ Validação de Credenciais: Verificação dos dados inseridos com lógica condic
 Feedback ao Usuário: Exibição dinâmica de mensagem de sucesso ou erro conforme as credenciais informadas.
 
 
-Parte 2 — Firebase App
+##Parte 2 — Firebase App
 
 Aplicação completa com três páginas distintas e integração com os serviços do Firebase:
 
