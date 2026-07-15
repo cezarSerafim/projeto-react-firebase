@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 30px;
+  max-width: 300px;
+}
+
+h2 {
+  margin-bottom: 15px;
+}
+
+input {
+  width: 250px;
+  padding: 6px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  border: 1px solid #999;
+}
+
+button {
+  padding: 5px 12px;
+  margin-bottom: 15px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+label {
+  font-size: 16px;
+}
